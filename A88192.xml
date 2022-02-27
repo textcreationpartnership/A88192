@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hue-and cry after the fundamental lawes and liberties of England occasionally written upon the stealing of one of the grand assertors of them out of Newgate, by a party of men on horseback, pretending themselves to be souldiers, raised and paid by the people of England (not for the subversion,) but the preservation of the said lawes and liberties, &amp;c. Together with some queries, and brief resolves, touching the present state of things, written for the consolation of the saints now reigning. By a well-wisher to the saints now reigning on earth, had they had the patience to have staid till the people had chose them, or that Christ the King of Saints above --- had setled the government upon them.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88192</idno>
+            <idno type="STC">Wing L2113</idno>
+            <idno type="STC">Thomason E714_1</idno>
+            <idno type="STC">ESTC R207238</idno>
+            <idno type="EEBO-CITATION">99866303</idno>
+            <idno type="PROQUEST">99866303</idno>
+            <idno type="VID">118572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E714[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hue-and cry after the fundamental lawes and liberties of England occasionally written upon the stealing of one of the grand assertors of them out of Newgate, by a party of men on horseback, pretending themselves to be souldiers, raised and paid by the people of England (not for the subversion,) but the preservation of the said lawes and liberties, &amp;c. Together with some queries, and brief resolves, touching the present state of things, written for the consolation of the saints now reigning. By a well-wisher to the saints now reigning on earth, had they had the patience to have staid till the people had chose them, or that Christ the King of Saints above --- had setled the government upon them.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in a year of Melodius Discord, to the tune of the Cross and the Harp, when the servants are princes, and the masters are slaves,</publisher>
+                  <pubPlace>Europe, :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A well-wisher to the saints now reigning on earth = John Lilburne.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept: 26 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118572:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>An Hue-and Cry AFTER THE <hi>Fundamental LAWES and Liberties</hi> OF ENGLAND</p>
+            <p>Occaſionally written upon the ſtealing of one of the grand Aſſertors of Them out of Newgate, by a Party of men on horſeback, pretending themſelves to be Souldiers, raiſed and paid by the People of <hi>England</hi> (not for the Subverſion,) but the preſervation of the ſaid <hi>Lawes and Liberties,</hi> &amp;c.</p>
+            <p>Together with ſome <hi>Queries,</hi> and brief <hi>Reſolves,</hi> touching the pre<g ref="char:EOLhyphen"/>ſent ſtate of Things: Written for the conſolation of the Saints now reigning.</p>
+            <p>
+               <hi>By a Well-wiſher to the Saints now reigning on earth, had they had the patience to have ſtaid till the People had choſe them, or that Chriſt the King of Saints above — had ſetled the Government upon them.</hi>
+            </p>
+            <p>
+               <hi>Europe,</hi> Printed in a year of <hi>Melodius Diſcord,</hi> To the Tune of the <hi>Croſs</hi> and the <hi>Harp,</hi> when the Servants are Princes, and the Maſters are Slaves.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:118572:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>
+               <hi>A Hu-and Cry after the fundamental Laws and Liberties of England,</hi> &amp;c.</head>
+            <p>YOU are immediatly upon ſight hereof, to make your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epair to all ſuſpected places within your ſeveral Limits in Juriſdictions, and there to mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diligent ſearch and enquiry after a Cabinet of Jewels o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ineſtimable worth and value, which hath been purchaſed with the Blood and Treaſure of our Anceſtors; and not only <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, but within theſe 12 years it hath coſt this Nation many millions of Treaſure, beſides the lives of ſome hundreds of thouſands of <hi>Engliſh men,</hi> whom the world (to ſucceeding Ages) will admire for their gallantry in the ſeveral Bat<g ref="char:EOLhyphen"/>tels and Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts during the late Deſtroy in inteſtine wars, in defence of the ſaid Jewels, heretofore called and known by the <hi>Fundamentall Laws and Liberties of England:</hi> part of which Laws and Native Rights are contained in <hi>Magna Charta,</hi> and the <hi>Petition of Right;</hi> the excellency of which Law, might Engliſh-men enjoy the benefit of them, as all a<g ref="char:EOLhyphen"/>long this War they have been promiſed, would make Engliſh men the happieſt Nation in the world, notwithſtanding there are many eſſentiall things concerning the Priviledges and Immunities of the good people of <hi>England,</hi> which is not contained in the ſaid <hi>Magna Charta,</hi> and <hi>Peti<g ref="char:EOLhyphen"/>tion of Right;</hi> yet ſo excellent are thoſe things contained in thoſe Laws, that were the people ſuffered to enjoy, which is their Right by Law, then would <hi>England</hi> be the freeſt people in the world: This is mentio<g ref="char:EOLhyphen"/>ned, becauſe the ſaid Laws were ratified and confirmed by divers Kings of this Nation, and in particular by the late King <hi>Charles,</hi> whom the late <hi>Parliament</hi> put to death for a Tyrant, for violating the ſaid Laws, there<g ref="char:EOLhyphen"/>by degenerating from a King into a Tyrant, as all Supream Magiſtrates do that ceaſe to rule by known Laws and Rules, meerly by his Arby<g ref="char:EOLhyphen"/>trary Will and Power.</p>
+            <p>
+               <pb n="4" facs="tcp:118572:2"/>
+               <!-- PDF PAGE 52 -->And here by the way it would be enquired, whether the Name of a King can make the people Slaves, or whether the Name of a <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> though legally choſen, make the people free, ſeeing that <hi>Parl.</hi> that are legally called to the Supream Truſt, may betray their Truſt, and ſo degenerate into Tyrants, aſwell as Kings, and ſo the Tyranny be more abſolute, and more evil then that of Kings, conſidering that Evil or Ty<g ref="char:EOLhyphen"/>ranny in a Community, is worſe then Vnity: becauſe that it cannot in Reaſon be imagined, that one man can poſſibly contrive ſo abſolute a Tyranny, as where there is a Spirit of Tyranny working in a conſiderable number of perſons in a body, &amp;c. And therefore in your ſearch and in<g ref="char:EOLhyphen"/>quiry, you are to take diligent notice, whether any perſon or perſons being the peoples ſervants, <hi>viz.</hi> being declared by themſelves the <hi>Parl. of the Commonwealth of England,</hi> whether they have by themſelves, or their Subſtitutes, at any time ſince their coming to the management of ſupream Truſt, any way violated, or endeavoured to violate any of the ſaid Priviledges or Immunities belonging to the good people of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> One ſpecial Pearl belonging to the ſaid <hi>Cabinet</hi> bear theſe words, <hi>No free man ſhalbe taken <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r impriſoned, or be diſſeized of his freehold, or li<g ref="char:EOLhyphen"/>berty, or free Cuſtoms, or be out-lawed or exiled, or any wayes deſtroyed, or be paſt upon, or any way dealt with, but by the Judgment of his Peers,</hi> that is, <hi>by a Jury of</hi> 12 <hi>ſworn men of the Neighborhood. No man from henceforth ſhall be attached by any Accuſation, nor fore-judged of his life, limb, nor his Lands Tenements, Goods, Chattels, into the Kings or Parliaments hands, againſt the Form of the great Charter, and the Law of the Land, &amp;c.</hi>
+            </p>
+            <p>From henceforth no man ſhalbe taken by Petition or ſuggeſtion made either to <hi>King</hi> or <hi>Parl.</hi> unleſs it be by <hi>Indictment</hi> or <hi>preſentment</hi> of <hi>good</hi> and <hi>lawful men,</hi> where ſuch Deeds be done in due manner, or by pro<g ref="char:EOLhyphen"/>ceſs made by <hi>Writ Original</hi> at the <hi>Common-Law. Nor that none be put out of his Franchiſes or Freehold, unleſs he be duly brought in to anſwer, and judged of the ſame by the Law. And if any thing be done contrary to this Statute, it ſhall he holden for nothing.</hi>
+            </p>
+            <p>Herein may be cleerly diſcovered the Supremacy and Excellency of the Law of <hi>England;</hi> wherein is enacted, commanded, and confirmed, <hi>That whatſoever ſhould be done contrary to the Law, ſhall be of no force.</hi> Nay further, <hi>No man of what eſtate or condition ſoever he be ſhall be put out of Land, Tenement, or taken or impriſoned, or diſ-inherited, or put to death, with<g ref="char:EOLhyphen"/>out being called to anſwer by due proceſs of Law.</hi>
+            </p>
+            <p>By theſe, and many other ſuch marks, and badges of <hi>Liberty</hi> you may
+<pb n="5" facs="tcp:118572:3"/>
+               <!-- PDF PAGE 53 -->
+ſee in the <hi>Cabinet:</hi> And becauſe it is more then ſtrongly ſuſpected, that ſome Grandees pretending to <hi>Honeſty,</hi> and to <hi>common Right</hi> and <hi>Free<g ref="char:EOLhyphen"/>dom,</hi> and upon and by means of the ſaid <hi>publike pretences,</hi> have inlarged their <hi>poſſeſſions</hi> by the <hi>Ruines of the Publique:</hi> I ſay it is upon good grounds ſuſpected, that ſome of the ſaid Grandees are guilty of endea<g ref="char:EOLhyphen"/>vouring the ſubverſion of the ſaid <hi>Laws and Liberties of England;</hi> and inſtead thereof to introduce an <hi>Arbytrary Government.</hi> And therefore it is thought fit to leave you, and all the good people of <hi>England</hi> theſe following Inſtructions for your eaſe and benefit in your ſaid ſearch and Enquiry.</p>
+            <p>
+               <hi>In the firſt place you are to conſider the caſe of</hi> Mr. John Lilburn, <hi>Gen<g ref="char:EOLhyphen"/>tleman, what manner of proceedings hath been had againſt him, ſince theſe publique Liberty-pretending Times,</hi> viz. <hi>Since the Parliament was bro<g ref="char:EOLhyphen"/>ken a pieces by Col.</hi> Pride, <hi>by advice and conſent of the General and Councel of Officers, meerly pretending, that Neceſſity had conſtrained them to take that courſe, they knowing no other way to ſecure the peoples Rights.</hi> Now if you look, as you ought to do, upon Mr. <hi>Lilburn's</hi> Caſe, as the Caſe of every free born Engliſh man, you will find that the people of <hi>England,</hi> never in the worſt of Times, received the like wounds in their <hi>Laws and Liberties,</hi> as they have done ſince the ſaid Purge firſt. Then you may conſider the cauſe of his late Baniſhment, which was nothing but for doing what in him lay (by Advice) to right a Gentleman greatly wrong'd in his eſtate, which, in any Engliſh mans judgment, deſerves no Puniſhment, much leſs Baniſhment.</p>
+            <p>Secondly, conſider the manner of proceeding againſt him: Firſt, the Buſineſs was referred to a Committee to examine, and report to the Houſe, and right or wrong, the Houſe proceeded to vote his Baniſh<g ref="char:EOLhyphen"/>ment upon the ſaid Report, although many of the ſaid Committee might juſtly be ſuſpected of Partiality, and greatly to favous Sir <hi>Arthur Haſlerig's</hi> Cauſe, and as much to diſcountenance Mr. <hi>Lilburn's</hi> Cauſe. So that Mr. <hi>Lilburn</hi> had no manner of legal proceſs, whereby he might make any juſt defence for himſelf, which they (I mean his Adverſaries) and indeed Adverſaries to the juſt Rights and Priviledges) very well knew he would do, in caſe it came into any Legal Court where he might have the liberty of Defence: and therefore an <hi>Arbytrary Com<g ref="char:EOLhyphen"/>mittee</hi> muſt do the work, being both in perſons and office fitly qualified for ſuch a purpoſe; and therefore they bring in their Report, upon which the Houſe proceeded to Vote, as followeth.</p>
+            <p>
+               <pb n="6" facs="tcp:118572:3"/>
+               <!-- PDF PAGE 53 -->
+               <hi>Reſolved upon the Queſtion, That the Fine of</hi> 3000<abbr>l.</abbr> 
+               <hi>be impoſed upon Lieu. Col.</hi> Iohn Lilburn, <hi>to be paid to the uſe of the Commonwealth, That he be fined</hi> 2000<abbr>l.</abbr> 
+               <hi>more to be paid to</hi> Sir Arthur Haſlerig <hi>for his dammages, and</hi> 2000<abbr>l.</abbr> 
+               <hi>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re to be paid to</hi> Iames Ruſſel, Edward Winſlow, William Mollins, Arthur Squib, <hi>Eſquires, four of the Commiſſioners for compounding,</hi> that is to ſay, <hi>to each of them</hi> 500<abbr>l.</abbr> 
+               <hi>for their dammages.</hi>
+            </p>
+            <p>Reſolved upon the Queſtion, <hi>That Lieu. Col</hi> Iohn Lilburn <hi>be baniſhed out of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Territories thereunto be<g ref="char:EOLhyphen"/>longing, and, not to return into any of them upon pain of being proceeded a<g ref="char:EOLhyphen"/>gainſt as a Felon; and in caſe of ſuch Return, ſhall ſuffer death accordingly.</hi> Did ever <hi>England</hi> know the like proceedings againſt one of its Natives: and therefore I can but wonder at the <hi>Kentiſh</hi> mens flattery in their late Petition againſt Tythes: in the preamble of which Petition they ſay, <hi>That the glory of Chriſts appearings are eminent in this Change, and that it is the Noon:</hi> But what Will that might be that hath ſuch a Noon of Darkneſs, Hypocriſie, Self-love, Envy, Injuſtice, and what not that is evil, as you will better perceive, if you conſider the cruel and juſt deal<g ref="char:EOLhyphen"/>ing exerciſed upon him the ſaid Mr. <hi>John Lilburn,</hi> both as to the matter and manner of his Baniſhment, and ſince hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Return. And firſt as to the manner of his Baniſhment. <hi>Conſider that the Law of England judgeth n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man before he be heard, as to his Defence; and therefore no Judgment could be legally given in Parl. againſt him as is pretended, becauſe that before any Judgment can be given in Law againſt any Engliſh man for any Crime, there muſt be either an Indictment, Preſentment, or ſome Information a<g ref="char:EOLhyphen"/>gainſt him. Secondly, the party accuſed muſt either appear before that Court, or be out-lawed for not appearing. Thirdly, if the party appears, he muſt ei<g ref="char:EOLhyphen"/>ther confeſs the Crimes or Miſdemeanors whereof he is accuſed, or elſe plead to the Indictment, Preſentment, or Information, and come to tryal thereupon.</hi> Now if you conſider the manner of their proceedings againſt Mr. <hi>Lil<g ref="char:EOLhyphen"/>burn,</hi> you will ſoon finde, that inſtead of coming to a legal Hearing, and what proof they had againſt him to prove any matter of Fact, he was onely called in to the Bar to receive his <hi>Sentence of Baniſhment;</hi> and whereas by the good old Law of <hi>England</hi> every <hi>puniſhment</hi> ought to be proportioned to the Offence, ſo that a man ought not to have the <hi>pu<g ref="char:EOLhyphen"/>niſhment</hi> due to a great Offence inflicted upon him for a ſmall Offence; nor a ſmall <hi>puniſhment</hi> for a great Offence: neither ought any man to be ruined by any pecuniary Muct or Fine, but every man ought to be preſerved in his eſtate, as ſaving to the Merchant his Merchandize, and
+<pb n="7" facs="tcp:118572:4"/>
+               <!-- PDF PAGE 54 -->
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Villain his Wainage, and ſo every man ought to be preſerved in a way of Tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de, or other Calling. Now whether they dealt ſo with Mr. <hi>Lilburn,</hi> let the world judge, who was fined 7000<abbr>
+                  <hi>l.</hi>
+               </abbr> which was far more then ever the Gentleman was worth, though it cannot be denyed but he hath deſerved more of the Common-wealth, then ſome of thoſe among whom the thouſands and ten thouſands have been divided, and Parks and Manſion houſes was beſtowed. Secondly, conſider the man<g ref="char:EOLhyphen"/>ner of proceedings againſt him ſince his Return, and you will find a<g ref="char:EOLhyphen"/>bundance of malice againſt the perſon of the Gentleman, if not an anſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure endeavor to ſubvert the ſaid <hi>Laws and Liberties;</hi> which if once effe<g ref="char:EOLhyphen"/>cted, <hi>the good people of this Common-wealth will have nothing left to defend them in thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lives, liberties, and eſtates, but the abſolute Wills of thoſe now endeavor the ſubverſion of the ſaid Laws. What elſe was the meaning that ſuch endeavors was uſed to tie him up to a ſimple Plea of Guilty or not guilty, and to ſtave him off from his Plea of Oyer, or a Hearing upon the whole mat<g ref="char:EOLhyphen"/>ter; which if it had been granted him, there needed to have been no Jury im<g ref="char:EOLhyphen"/>panelled for the Matter, which the Bench very well knew; for the pretended Judgment upon which that pretended act was Grounded was no Judgment, but ſome Certaine Arbitrarie votes; and if the Judgment was no Judgment then ſure the Act ſhould be no Act, and ſo the whole Matter muſt fall to the ground, but when by their Menaces of the Preſs, and ſtill perſiſting in theire Refuſall to grant him the Oyer, he was Conſtrained to Joyne Jſſue and to Caſt himſelfe upon the Jury for his Tryall and the Jury brought in their ver<g ref="char:EOLhyphen"/>dict according to their Oathes and their Conſciences, in which verdict they brought him in not Guilty, wherein they did approve Engliſh men, and Ho<g ref="char:EOLhyphen"/>neſt men as no doubt others would have done as well as they, if they had been ſuch as were prejudiced againſt him in one kind or other.</hi>
+            </p>
+            <p>But now beeing acquitted by a Jury of 12 Sworn men of the Neigh<g ref="char:EOLhyphen"/>bourhood it was expected hee ſhould have been inlarged Speedily up<g ref="char:EOLhyphen"/>on it, as by the Law of the Land hee ought to be, but Contrary to Ex<g ref="char:EOLhyphen"/>pectation hee was detained in Newgate till the 28 of Auguſt upon which day Early in the Morning betwixt 3 and 4 of Clock hee was fetcht by a party of about 100 horſe from Newgate and Conveyed to the Tower of London, and there kept Cloſe priſoner and no man ſuffered to come neere him, and no cauſe of his deteinement known or expreſſed in any warrant of commitment, as ought to bee, if Legally they have any thing againſt him, wherefore it is ſtrangely to be ſuſpected they have ſome de<g ref="char:EOLhyphen"/>ſign either to try him by ſome Arbitrarie Court or other ſeein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="7" facs="tcp:118572:4"/>
+               <!-- PDF PAGE 54 -->
+men will act according to their Conſciences, and not to ſerue the wills of men how great in power ſoever, and ſo by Erecting ſome Arbi<g ref="char:EOLhyphen"/>trary high Court and to trample under foot that moſt Juſt way of tryall by Juries and then farewel the L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and Liberties of England, neither are they content having <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> priſoner in the Tower of London but much ſtriving <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have the <hi>Jury</hi> fined, if not impriſoned, for not forſw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g and that by thoſe men that in a late De<g ref="char:EOLhyphen"/>claration tells <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they were required to take upon them the Supreame <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hou<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the 3 Nations (its no matter by whom) and that they will be as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Liues Liberties and Eſtates of all others aſ of theire owne <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poſterities whome they expect ſtill to bee G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verned by Succe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve parliaments.</p>
+            <p>Now Let the world judg whether the Actions of men be anſwerable to their proteſtations; can any man imagine, that if any one or more of them ſhould have vndergone ſo ſevere a tryall for their lives and beeing acquitted by a Iury would have been Content to be ſtill deteined in priſon, and no cauſe ſhown wherefore; and not onely ſo, but to bee hurried from out of their beds by a part of horſe, and conveyed to the Tow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r; and there to be kept cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Priſoners in the cuſtody of their grea<g ref="char:EOLhyphen"/>teſt enemies. This I can hardly beleeve; and therfore what M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chivel ſaid of Alexander the ſixth, may be ſaid of theſe men; Alexander the ſixth ſaith hee never did any thing elſe but d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive men, and never meant other<g ref="char:EOLhyphen"/>wiſe; yet never was there a man would proteſt more effectually, nor a<g ref="char:EOLhyphen"/>ver any thing with more Sollemn, and obſerue them leſs then he. Ne<g ref="char:EOLhyphen"/>vertheleſs his cozenages thrived well enough becauſe he knew how to play his part cunningly, Now whether theſe men knew how to act their parts cunning or not is the Queſtion; and therefore in your Search and Enquiry you are to be dilligent and Impartiall, eſpecially among the greate Ones, Becauſe one of the Grandees ſaid not long ſince that he knew not whether there were Any fundamentall Lawes or not, if there were any he thought two Lines of them could not be found, now it is ſtrongly to be ſuſpected that he is one of the violaters of the ſaid Lawes and therefore he would perſwade the people not to Looke for the Main<g ref="char:EOLhyphen"/>tanance of the ſaid Lawes, by telling them that there are not two Lines of them to be found, and therefore they Muſt be Irrecoverably loſt, and therefore if the ſaid party Can or may be found he ought to be apprehended upon Suſpition.</p>
+            <p>You are alſo to make Dilligent Search and enquiry into all Hiſtories
+<pb n="8" facs="tcp:118572:5"/>
+               <!-- PDF PAGE 55 -->
+and Recordes of Antiquity, and eſpecially into the Reigne of Queen Marie for a preſident and Parralell caſe, to juſtifie the now Governers in their late proceedings againg Mr. <hi>John Lilurbn,</hi> which if you do, which is much feared you ſhall be Exceedingly well Rewarded for your paines becauſe the Aturney Generall is thought to be very buſie in drawing up an Anſwer to to the Charge of High Treaſon Exhibited againg himſelf in the uper bench by Squire <hi>Elſliot,</hi> and for Mr. <hi>Hall</hi> it is thought that he is Takeing of Phiſick and ſpitting his plums to Cheare his throat that the next time he comes to the bench, either the Court or himſelfe may underſtand what he ſaith, and the Grandees themſelves have work e<g ref="char:EOLhyphen"/>nough to cut out for the reſt, except ſome few who have ſcarcely Read beyond the firſt of Mathew, or the 3 of Luke, and therefore it is no work for them, All which if you perform, you do both State and people an ex<g ref="char:EOLhyphen"/>cellent peice of ſervice, and may expect your Reward; and for your ſo do<g ref="char:EOLhyphen"/>ing this ſhall be your ſufficent warrant. Given under our hands Signed by populer order and appointment</p>
+            <closer>
+               <signed>Anonimus.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
